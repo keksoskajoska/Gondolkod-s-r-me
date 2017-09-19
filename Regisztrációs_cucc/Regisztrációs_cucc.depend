@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505837731 source:c:\users\bogár-szabó andrás\desktop\gondolkodás Öröme\regisztrációs_cucc\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
